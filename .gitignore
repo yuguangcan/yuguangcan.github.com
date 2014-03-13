@@ -1,4 +1,4 @@
-_site
+_site/*
 .coffeehintrc
 .jshintrc
 img/Thumbs.db

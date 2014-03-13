@@ -4,7 +4,7 @@
     {% include head.html %}
   </head>
   <body>
-    <div class="container azul">
+    <div class="container ruby">
       <header class="top row gutters{% if page.title == "Home" %} fadeInLeft animated{% endif %}">
         <div class="col span_2 center">
           <a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}"
@@ -15,10 +15,10 @@
 
       {{ content }}
 
-      <footer>
-        <p>
-          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-        </p>
+    <footer>
+        <p>© Guangcan Yu 2014
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        </p>      
       </footer>
     </div>
 
@@ -30,5 +30,6 @@
         $("article").fitVids();
       });
     </script>
+    
   </body>
 </html>

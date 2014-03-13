@@ -7,3 +7,8 @@ baseurl:
 
 redcarpet:
   extensions: [strikethrough, tables]
+
+comments :
+    provider : duoshuo
+    duoshuo : 
+      short_name : guangcan
