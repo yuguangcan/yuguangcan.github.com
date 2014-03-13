@@ -1,9 +1,8 @@
 ---
-layout： post
-title： This Summer
-category: 随笔
-tags: [诗歌]
+layout: post
+title: This Summer
 ---
+
 夏天快结束了，感叹它总是过得很快，就像坐在教室里一下午的长度。夏天里那些人和景象如进出的学生一样来来往往，记忆的门开开合合。我拉上门，写点东西当做钥匙，把它锁上吧。
 
 ###Summer holiday
