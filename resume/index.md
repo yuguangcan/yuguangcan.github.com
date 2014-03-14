@@ -16,11 +16,11 @@ title: 余光灿
 
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职业技能####
 
-- 熟练掌握web前端开发技术   
-- pc、mobile浏览器、native webview中前端开发皆有经验   
-- 对前端性能优化有所研究   
-- android、ios端开发皆有所涉猎    
-- 用合适的语言，合适的解决问题：HTML/Javascript/CSS/Java/Objective-C/Php 
+   - 熟练掌握web前端开发技术   
+   - pc、mobile浏览器、native webview中前端开发皆有经验   
+   - 对前端性能优化有所研究   
+   - android、ios端开发皆有所涉猎    
+   - 用合适的语言，合适的解决问题：HTML/Javascript/CSS/Java/Objective-C/Php 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**语言能力**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;英语CET-6 熟练阅读英语网站和文档 ；可做为工作语言
    
@@ -32,26 +32,27 @@ title: 余光灿
 
 毕业加入百度之后一直在知识搜索部-百度知道工作，负责百度知道及其子产品的前端研发工作。至今负责和参与的工作主要有：
 
-- **[百度知道webapp/wap站点](http://zhidao.baidu.com)**   
+- **[百度知道webapp/wap站点](http://zhidao.baidu.com)**    
+
 	`请用手机访问`该站点为百度知道移动浏览器端版本，针对不同手机和版式适配不同页面（极简、炫彩、webapp）
 
-1. 负责站点前端架构建设与维护，使用FIS前端解决方案进行开发和优化
-2. 负责跟进产品升级和修改需求，分发开发任务、协助管理项目进度
-3. 与公司内外其他产品合作，探索移动端广告和推广方案以及统计方案
-4. 在前端性能优化方面进行探索和实践
+   1. 负责站点前端架构建设与维护，使用FIS前端解决方案进行开发和优化
+   2. 负责跟进产品升级和修改需求，分发开发任务、协助管理项目进度
+   3. 与公司内外其他产品合作，探索移动端广告和推广方案以及统计方案
+   4. 在前端性能优化方面进行探索和实践
 
 - **[百度知道pc站点](http://zhidao.baidu.com)**   
 
 	最大的中文问答社交和工具平台
 
-1. 跟进产品需求进行前端研发工作
-2. 协助进行前端架构升级、优化等工作
+   1. 跟进产品需求进行前端研发工作
+   2. 协助进行前端架构升级、优化等工作
 
 - **[百度知道新浪/腾讯微博应用站点](http://zhidao.baidu.com/open/user/push?appid=10003)**       
 
 	`请用手机访问`该站点为百度知道在新浪和腾讯微博中的应用，做为百度知道问答平台的回答下游存在
 
-1. 负责从零搭建站点，并接入微博应用
+   1. 负责从零搭建站点，并接入微博应用
 
 - **百度知道app内嵌页面开发**    
 
