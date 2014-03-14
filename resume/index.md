@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 余光灿
 ---
+
+<center><h2>余光灿</h2></center>
 
 ---
 
