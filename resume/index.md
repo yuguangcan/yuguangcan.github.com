@@ -41,20 +41,24 @@ title: 余光灿
 4. 在前端性能优化方面进行探索和实践
 
 - **[百度知道pc站点](http://zhidao.baidu.com)**   
+
 	最大的中文问答社交和工具平台
 
 1. 跟进产品需求进行前端研发工作
 2. 协助进行前端架构升级、优化等工作
 
-- **[百度知道新浪/腾讯微博应用站点](http://zhidao.baidu.com/open/user/push?appid=10003)**      
+- **[百度知道新浪/腾讯微博应用站点](http://zhidao.baidu.com/open/user/push?appid=10003)**       
+
 	`请用手机访问`该站点为百度知道在新浪和腾讯微博中的应用，做为百度知道问答平台的回答下游存在
 
 1. 负责从零搭建站点，并接入微博应用
 
-- **百度知道app内嵌页面开发**   
+- **百度知道app内嵌页面开发**    
+
 	开发native app中的内嵌页面，包括活动、说明、反馈等页面
 
 - **[百度知道企业知道站点](http://zhidao.baidu.com/c/xiaomi)**   
+
 	百度知道商业变现产品尝试，参与进行前端页面开发，包括用户界面以及企业后台等
 
 ###实习经历
@@ -65,13 +69,16 @@ title: 余光灿
 
 ###其他项目
 
-- **[HTML5 GIS地图项目](http://html5gis.sinaapp.com)**   
+- [**HTML5 GIS地图项目**](http://html5gis.sinaapp.com)   
+
 	使用HTML5 canvas绘图技术，采用openstreetmap地图数据，在浏览器端进行地图绘制。实现了核心的地图算法和基本的地图操作（缩放、移动），并提供不同的配色接入
 
-- [猜电影游戏](http://webappgame.sinaapp.com/film)   
+- [**猜电影游戏**](http://webappgame.sinaapp.com/film)   
+
 	`请用手机访问`模仿疯狂猜图游戏实现的一个猜电影游戏，实现了一个简单的游戏引擎
 
-- [ke234课程导航](http://ke234.sinaapp.com)   
+- [**ke234课程导航**](http://ke234.sinaapp.com)   
+
 	在线教育很火的时候做的一个产品，提供在线公开课、免费培训课程站点的导航，属于未完成的版本
 
 
