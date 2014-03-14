@@ -30,6 +30,21 @@ title: 余光灿
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**百度**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**前端开发工程师**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012-7 至今   
 
+毕业加入百度之后一直在知识搜索部-百度知道工作，负责百度知道及其子产品的前端研发工作。至今负责和参与的工作主要有：
+
+- [百度知道webapp/wap站点](http://zhidao.baidu.com)`请用手机访问`
+	该站点为百度知道移动浏览器端版本，针对不同手机和版式适配不同页面（极简、炫彩、webapp）
+
+	1. 负责站点前端架构建设与维护，使用FIS前端解决方案进行开发和优化
+	2. 负责跟进产品升级和修改需求，分发开发任务、协助管理项目进度
+	3. 在前端性能优化方面进行探索和实践
+
+- [百度知道pc站点](http://zhidao.baidu.com)
+- [百度知道新浪/腾讯微博应用站点](http://zhidao.baidu.com/open/user/push?appid=10003)`请用手机访问`
+- 百度知道app内嵌页面开发
+- [百度知道企业知道站点](http://zhidao.baidu.com/c/xiaomi)
+
+
 
 
 
