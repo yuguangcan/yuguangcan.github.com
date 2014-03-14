@@ -6,7 +6,7 @@ title: 余光灿
 ###基本信息
 
 
-**工作经验**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2年   
+	**工作经验**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2年   
   
 **教育背景**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉大学硕士 武汉大学学士 软件工程        
  
