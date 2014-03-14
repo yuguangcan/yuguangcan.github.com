@@ -14,7 +14,7 @@ title: 余光灿
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**个人博客**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yuguangcan.github.io](http://yuguangcan.github.io)(建设、迁移中)   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;####职业技能####
+####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职业技能####
 
 - 熟练掌握web前端开发技术   
 - pc、mobile浏览器、native webview中前端开发皆有经验   
