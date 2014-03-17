@@ -19,16 +19,46 @@
         <p>© Guangcan Yu 2014
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
         </p>      
-      </footer>
+    </footer>
+    <footer>
+        <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> & <a href="http://pages.github.com">GitHub</a> | Copyright {{site.time | date:"%Y"}} by <a href="/resume">guangcan</a> | <span class="time-label" id="timeSpan"></span></small></p>
+    </footer>
     </div>
 
     <!-- scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="{{site.baseurl}}/public/js/jquery.fitvids.js"></script>
     <script>
+      function setTimeSpan(){
+        var date = new Date();
+        timeSpan.innerText=date.format('yyyy-MM-dd hh:mm:ss');
+      }
+      
+      Date.prototype.format = function(format)
+      {
+      var o =
+        {
+            "M+" : this.getMonth()+1, //month
+            "d+" : this.getDate(),    //day
+            "h+" : this.getHours(),   //hour
+            "m+" : this.getMinutes(), //minute
+            "s+" : this.getSeconds(), //second
+            "q+" : Math.floor((this.getMonth()+3)/3),  //quarter
+            "S" : this.getMilliseconds() //millisecond
+        }
+        if(/(y+)/.test(format))
+        format=format.replace(RegExp.$1,(this.getFullYear()+"").substr(4 - RegExp.$1.length));
+        for(var k in o)
+        if(new RegExp("("+ k +")").test(format))
+        format = format.replace(RegExp.$1,RegExp.$1.length==1 ? o[k] : ("00"+ o[k]).substr((""+ o[k]).length));
+        return format;
+      }
       $(document).ready(function(){
         $("article").fitVids();
+        setInterval(setTimeSpan,1000);
       });
+
+
     </script>
     
   </body>
