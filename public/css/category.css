@@ -1,5 +1,6 @@
 #tag_cloud{margin-bottom: 1em;}
 #tag_cloud a:hover{color:#333333 !important;text-decoration:none;}
+.listing{margin-bottom: 100px;}
 .listing-item,.listing-seperator{list-style-type:none;}
 .listing-item a{
 	padding:.2em 1em;
