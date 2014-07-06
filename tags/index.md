@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Tags
 layout: default
 ---
 
