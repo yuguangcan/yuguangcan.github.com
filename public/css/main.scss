@@ -7,6 +7,13 @@ $amber-accent-color: #ff7e00;
 $avocado-accent-color: #568203;
 
 /*============================================================================*/
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url("/public/fonts/sourcesanspro.woff") format('woff');
+}
+
 * {
   margin: 0;
   padding: 0;
