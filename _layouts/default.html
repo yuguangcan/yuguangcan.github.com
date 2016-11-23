@@ -51,6 +51,22 @@
       $(document).ready(function(){
         $("article").fitVids();
         setInterval(setTimeSpan,1000);
+        var invokeAppAction = function(url){
+            var appschemaNode = document.createElement('iframe');
+            appschemaNode.src = 'keepweb://' + url;
+            appschemaNode.style.display = 'none';
+            document.body.appendChild(appschemaNode);
+            setTimeout(function() {
+                document.body.removeChild(appschemaNode);
+            }, 3000);
+        }
+        var param = [
+            'title=' + '这是分享标题',
+            'content=' + '这是分享内容',
+            'image=' + encodeURIComponent('http://gotokeep.qiniudn.com/2016/10/18/16/1476778704107_160x160.png'),
+            'url=' + encodeURIComponent('https://gotokeep.com')
+        ]
+        invokeAppAction('share' + (path?('/' + path):'') + '?' + param.join('&'));
       });
 
 
